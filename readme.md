@@ -1,25 +1,22 @@
-This repository contains the code for [[Impact of the composition of
+This repository contains the code for Impact of the composition of
 feature extraction and class sampling in medicare fraud
-detection]{.ul}](https://arxiv.org/abs/2206.01413) research paper.
+detection (https://arxiv.org/abs/2206.01413) research paper.
 
 **Dataset links**
 
 1.  Medicare Part D dataset
 
-> [[Medicare Part D Prescribers - by Provider and
-> Drug]{.ul}](https://data.cms.gov/provider-summary-by-type-of-service/medicare-part-d-prescribers/medicare-part-d-prescribers-by-provider-and-drug/data/2018)
+> Medicare Part D Prescribers - by Provider and Drug(https://data.cms.gov/provider-summary-by-type-of-service/medicare-part-d-prescribers/medicare-part-d-prescribers-by-provider-and-drug/data/2018)
 
 2.  LEIE dataset
 
-> [[LEIE Downloadable
-> Databases]{.ul}](https://oig.hhs.gov/exclusions/exclusions_list.asp)
+> LEIE Downloadable Databases(https://oig.hhs.gov/exclusions/exclusions_list.asp)
 
 **Setup**
 
 For the environment setup:
 
-1.  Upload the above datasets in google drive and change the directory
-    > path to dataset loaction in read_csv function.
+1.  Upload the above datasets in google drive and change the directory path to dataset loaction in read_csv function.
 
 2.  Install CatBoost, LightGBM, AdaBoost and XGBoost classifiers.
 
