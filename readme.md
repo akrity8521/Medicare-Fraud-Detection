@@ -1,4 +1,4 @@
-This repository contains the code for **Impact of the composition of feature extraction and class sampling in medicare fraud detection** (https://arxiv.org/abs/2206.01413) research paper.
+This repository contains the code for [**Impact of the composition of feature extraction and class sampling in medicare fraud detection**](https://arxiv.org/abs/2206.01413) research paper.
 
 **Dataset links**
 
