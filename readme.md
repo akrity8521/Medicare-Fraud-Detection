@@ -14,7 +14,7 @@ This repository contains the code for [**Impact of the composition of feature ex
 
 For the environment setup:
 
-1.  Upload the above datasets in google drive and change the directory path to dataset loaction in read_csv function.
+1.  Upload the above datasets in google drive and change the directory path to dataset location in read_csv function.
 
 2.  Install CatBoost, LightGBM, AdaBoost and XGBoost classifiers.
 
@@ -24,7 +24,7 @@ This work uses following resources:
 
 1.  For feature extraction, [Credit Card Fraud Detection](https://colab.research.google.com/github/dpanagop/ML_and_AI_examples/blob/master/Credit_Fraud_detection_with_autoencoders.ipynb) is followed.
 
-2.  For classified selection, [Gradient Boosted Decision Tree Algorithms for Medicare Fraud Detection](https://www.researchgate.net/publication/351432766_Gradient_Boosted_Decision_Tree_Algorithms_for_Medicare_Fraud_Detection) is followed.
+2.  For classifier selection, [Gradient Boosted Decision Tree Algorithms for Medicare Fraud Detection](https://www.researchgate.net/publication/351432766_Gradient_Boosted_Decision_Tree_Algorithms_for_Medicare_Fraud_Detection) is followed.
 
 **Execution**
 
